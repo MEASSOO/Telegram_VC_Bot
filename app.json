@@ -32,8 +32,7 @@
     "SESSION_STRING": {
             "description": "Session string, Check the readme if you don't know how to get this.",
             "required": true,
-	    "value": "BAB3zHKlkv3psckeAOMxfl9Puwy6g8aFCslNutCRdbIJRsrgb8DYAS-YlcnsBd0eruL9jKQphkgyfhAZNjJ08GP31e5hjSR0fS3uNtBZ3I0M0JzOExubMbpF3JHKDKct67dU-FIe5pf6ZZWheioSMrRiQ8-o4JbiQ_h26ABqV_m5nxCr3ZLUMoU8Ylc38KCUKziVtBYFypa7GjOmG-tGq_XMXdB6ymMOzt-UvB2kZHTjhzOw7xP0-vMdOH5MSgW5pKrySCxNl3aw6LQ8NWd0mxCHt_NLtGq6hkYCTkbxlSCWlkDd2Wz7OnW2eyqh9Vgk4KlsbXvK0DFK4k94SPfGWcgMAAAAAVf21r8A
-",
+	    "value": "BAB3zHKlkv3psckeAOMxfl9Puwy6g8aFCslNutCRdbIJRsrgb8DYAS-YlcnsBd0eruL9jKQphkgyfhAZNjJ08GP31e5hjSR0fS3uNtBZ3I0M0JzOExubMbpF3JHKDKct67dU-FIe5pf6ZZWheioSMrRiQ8-o4JbiQ_h26ABqV_m5nxCr3ZLUMoU8Ylc38KCUKziVtBYFypa7GjOmG-tGq_XMXdB6ymMOzt-UvB2kZHTjhzOw7xP0-vMdOH5MSgW5pKrySCxNl3aw6LQ8NWd0mxCHt_NLtGq6hkYCTkbxlSCWlkDd2Wz7OnW2eyqh9Vgk4KlsbXvK0DFK4k94SPfGWcgMAAAAAVf21r8A",
     },
     "ARQ_API_KEY": {
 	    "description": "Get this from @ARQRobot.",
