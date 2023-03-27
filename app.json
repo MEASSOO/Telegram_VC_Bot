@@ -1,7 +1,7 @@
 {
   "name": "Telegram Voice Chat Bot",
   "description": "Telegram Voice-Chat Bot Written In Python Using Pytgcalls & Pyrogram.",
-  "repository": "https://github.com/thehamkercat/Telegram_VC_Bot",
+  "repository": "https://github.com/MEASSOO/Telegram_VC_Bot",
   "logo": "https://i.imgur.com/8S8NVy0.png",
   "keywords": [
     "python",
@@ -21,23 +21,28 @@
   "env": {
     "API_ID": {
             "description": "API_ID of your Telegram Account my.telegram.org/apps",
-            "required": true
+            "required": true,
+	    "value": "22594726",
     },
     "API_HASH": {
             "description": "API_HASH of your Telegram Account my.telegram.org/apps",
-            "required": true
+            "required": true,
+	    "value": "7cf1f2f821c152a81aab9c85b2f8a2ba",
     },
     "SESSION_STRING": {
             "description": "Session string, Check the readme if you don't know how to get this.",
-            "required": true
+            "required": true,
+	    "value": "BAB3zHKlkv3psckeAOMxfl9Puwy6g8aFCslNutCRdbIJRsrgb8DYAS-YlcnsBd0eruL9jKQphkgyfhAZNjJ08GP31e5hjSR0fS3uNtBZ3I0M0JzOExubMbpF3JHKDKct67dU-FIe5pf6ZZWheioSMrRiQ8-o4JbiQ_h26ABqV_m5nxCr3ZLUMoU8Ylc38KCUKziVtBYFypa7GjOmG-tGq_XMXdB6ymMOzt-UvB2kZHTjhzOw7xP0-vMdOH5MSgW5pKrySCxNl3aw6LQ8NWd0mxCHt_NLtGq6hkYCTkbxlSCWlkDd2Wz7OnW2eyqh9Vgk4KlsbXvK0DFK4k94SPfGWcgMAAAAAVf21r8A
+",
     },
     "ARQ_API_KEY": {
 	    "description": "Get this from @ARQRobot.",
-	    "required": true
+	    "required": true,
+	    "value": "CYXGQA-GSNNYY-HISAOS-UDRCRV-ARQ",
     },
     "DEFAULT_SERVICE": {
             "description": "Must be one of youtube/saavn.",
-            "value": "saavn",
+            "value": "youtube",
             "required": true
     },
     "BITRATE": {
